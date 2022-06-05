@@ -15,6 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Languages and Tools
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white)
+
+
+## GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jasonjiajs&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonjiajs&hide=TeX,jupyternotebook&layout=compact)
