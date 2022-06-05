@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jasonjiajs&count_private=true&show_icons=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonjiajs&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jasonjiajs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonjiajs&hide=TeX,jupyternotebook&layout=compact)
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=jasonjiajs.visitor-badge)
