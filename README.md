@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)
+![HiveQL](https://img.shields.io/badge/-HiveQL-black?style=flat-square&logo=apachehive&logoColor=FDEE21)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
