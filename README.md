@@ -2,8 +2,8 @@
 
 I'm Jason, a Research Professional at the University of Chicago Booth School of Business.
 
-- 🔭 I’m currently working on data collection, pre-processing and exploratory data analysis.
-- 🌱 I’m currently learning HiveQL, R, data visualization and ML.
+- 🔭 I’m currently working on ETL pipelines and exploratory data analysis using SQL (Hive) and Python.
+- 🌱 I’m currently learning PySpark, Airflow, R, data visualization and ML.
 
 <!--
 **jasonjiajs/jasonjiajs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
