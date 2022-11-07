@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonjiajs&hide=TeX,jupyter%20notebook&layout=compact)
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=jasonjiajs.visitor-badge)
+<!-- ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=jasonjiajs.visitor-badge) -->
 
