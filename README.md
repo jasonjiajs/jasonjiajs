@@ -3,7 +3,7 @@
 I'm Jason, a Research Professional at the University of Chicago Booth School of Business.
 
 - 🔭 I’m currently working on ETL pipelines and exploratory data analysis using SQL (Hive) and Python.
-- 🌱 I’m currently learning Optimization and R.
+- 🌱 I’m currently learning ML, optimization and R.
 
 <!--
 **jasonjiajs/jasonjiajs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
