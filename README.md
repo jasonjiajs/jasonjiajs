@@ -3,7 +3,7 @@
 I'm Jason, a Masters of Business Analytics (MBAn) candidate at MIT.
 
 - 🔭 I’m currently working on ETL pipelines and exploratory data analysis using SQL (Hive) and Python.
-- 🌱 I’m currently learning ML, marketing analytics and supply chain optimization.
+- 🌱 I’m currently learning ML and optimization.
 
 <!--
 **jasonjiajs/jasonjiajs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
