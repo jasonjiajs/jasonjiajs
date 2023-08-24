@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Jason, a Masters of Business Analytics candidate at MIT.
+I'm Jason, a Masters of Business Analytics (MBAn) candidate at MIT.
 
 - 🔭 I’m currently working on ETL pipelines and exploratory data analysis using SQL (Hive) and Python.
 - 🌱 I’m currently learning ML, marketing analytics and supply chain optimization.
