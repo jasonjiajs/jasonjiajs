@@ -2,7 +2,7 @@
 
 I'm Jason, a Masters of Business Analytics (MBAn) candidate at MIT.
 
-- 🔭 I’m currently working on LLMs, AI, ML and optimization.
+- 🔭 I’m currently working on LLMs, Reinforcement Learning, marketing analytics and optimization.
 - 🌱 I’m currently learning ML from the dual lenses of statistics and optimization.
 
 <!--
