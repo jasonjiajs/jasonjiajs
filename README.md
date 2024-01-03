@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonjiajs&hide=TeX,jupyter%20notebook&layout=compact)
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jasonjiajs.jasonjiajs)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jasonjiajs)
