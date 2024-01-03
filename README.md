@@ -3,7 +3,7 @@
 I'm Jason, a Masters of Business Analytics (MBAn) candidate at MIT.
 
 - 🔭 I’m currently working on LLMs, Reinforcement Learning, marketing analytics and optimization.
-- 🌱 I’m currently learning ML from the dual lenses of statistics and optimization.
+- 🌱 I’m also interested in interactive visualizations for business applications, AR/VR and video making!
 
 <!--
 **jasonjiajs/jasonjiajs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
