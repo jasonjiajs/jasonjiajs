@@ -4,7 +4,7 @@ I'm Jason, a Masters of Business Analytics (MBAn) candidate at MIT.
 
 - 🔭 I’m currently working on LLMs, Reinforcement Learning, marketing analytics and optimization.
 - 🌱 I’m also learning interactive visualizations for business applications, AR/VR and video making.
-- 🥳 Let's connect!
+- 🥳 My email is jasonjia@mit.edu and I'm active on [LinkedIn](https://www.linkedin.com/in/jasonjiajs/). Let's connect!
 
 <!--
 **jasonjiajs/jasonjiajs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
