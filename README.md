@@ -2,7 +2,7 @@
 
 I'm Jason, a Masters of Business Analytics (MBAn) candidate at MIT.
 
-- 🔭 I’m currently working on modeling joint elasticities of demand and interpretable ML.
+- 🔭 I’m currently working on modeling joint elasticities of demand and interpretable ML with Comcast.
 - 🌱 I’m also learning interactive visualizations for business applications, AR/VR and video making.
 - 🥳 My email is jasonjia@mit.edu and I'm active on [LinkedIn](https://www.linkedin.com/in/jasonjiajs/). Let's connect!
 
