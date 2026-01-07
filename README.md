@@ -35,8 +35,5 @@ Here are some ideas to get you started:
 
 
 ## GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jasonjiajs&count_private=true&show_icons=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonjiajs&hide=TeX,jupyter%20notebook&layout=compact)
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jasonjiajs.jasonjiajs)
