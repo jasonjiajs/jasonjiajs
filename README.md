@@ -4,8 +4,6 @@ I'm Jason, currently a data scientist at Comcast. I help solve business problems
 
 Check out my work and projects at [jasonjiajs.com](jasonjiajs.com).
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jasonjiajs.jasonjiajs)
-
 <!--
 **jasonjiajs/jasonjiajs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
