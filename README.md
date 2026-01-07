@@ -2,7 +2,7 @@
 
 I'm Jason, currently a data scientist at Comcast. I help solve business problems with ML, software and design.
 
-Check out my work and projects at [jasonjiajs.com](jasonjiajs.com).
+Check out my work and projects at [jasonjiajs.com](https://jasonjiajs.com/).
 
 <!--
 **jasonjiajs/jasonjiajs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
