@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is Jason Jia and I am a data scientist. I help solve business problems with ML, software and design.
+My name is Jason Jia and I am a data scientist at Comcast. I build ML systems to improve marketing and pricing decisions.
 
 Check out my work and projects at [jasonjiajs.com](https://jasonjiajs.com/).
 
